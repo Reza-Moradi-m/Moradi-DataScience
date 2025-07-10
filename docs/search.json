@@ -33,23 +33,23 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Reza Moradi CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Computer Science Student | Software Developer\n\nmohammadrezamoradi382@gmail.com | LinkedIn | (208) 500-2821 | United States\n\n\n\nBachelor’s Degree – Computer Science student at Brigham Young University–Idaho\n\n\nCross-platform software development, database systems, backend APIs, and real-time web applications\n\n\n\nWeb development, mobile apps, machine learning, backend architecture, educational platforms\n\n\n\n\nProgramming Languages: Python, HTML, CSS, SQL, JavaScript, JSON, Erlang, C#, Java, Kotlin\nPlatforms: Mac, Windows, Linux, Android, iOS, GCP, Firebase, NODE.JS\nTools & Libraries: TensorFlow, PyTorch, GitHub, Pandas, YAML, Regex, Pycharm, SSH/DCN, SFTP, VNC, mySQL, MongoDB, Mongoose, Express.js\nCommunication: Strong written and verbal communication skills. Fluent in English, Farsi, Dari, Tajik, Arabic, Azerbaijani, Turkish, Slovak, Czech\n\n\n\n2023 – Present\nArabic Language TA, Brigham Young University–Idaho, Idaho\n- Provide academic support for Arabic courses\n- Facilitate language learning and cultural awareness\n- Assist professors with instruction and university events\n2018 – 2021\nTechnical Service Trainee, Appliance Repair, Iran\n- Diagnosed and repaired motors, boards, and appliances\n- Demonstrated precision in disassembly and repairs\n- Strengthened critical thinking and system analysis skills\nJune – Dec 2018\nTechnical Trainee, Signal Center, Qazvin, Iran\n- Specialized in mobile device repairs\n- Performed socket/screen replacements and updates\n- Developed hardware and software troubleshooting expertise\n\n\n\n\n\nA real-time messaging platform to discuss astronomy and space exploration\n\nStack: Firebase, Firestore, Firebase Auth\n\nFeatures: Secure user accounts, real-time chat, photo sharing\n\nDesign: Clean, user-friendly interface focused on engagement\n\nOutcome: A safe platform for space enthusiasts to interact and learn\n\n\n\n\n\n2023 – 2026 (expected)\nBrigham Young University–Idaho, Rexburg, Idaho\n- Bachelor’s Degree in Computer Science\nCertifications:\n- Responsive Web Design\n- Relational Databases\n- Backend Development and APIs"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Reza Moradi CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Bachelor’s Degree – Computer Science student at Brigham Young University–Idaho\n\n\nCross-platform software development, database systems, backend APIs, and real-time web applications\n\n\n\nWeb development, mobile apps, machine learning, backend architecture, educational platforms"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Reza Moradi CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2023 – 2026 (expected)\nBrigham Young University–Idaho, Rexburg, Idaho\n- Bachelor’s Degree in Computer Science\nCertifications:\n- Responsive Web Design\n- Relational Databases\n- Backend Development and APIs"
   },
   {
     "objectID": "resume.html#awards",
@@ -363,5 +363,26 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Reza Moradi CV",
+    "section": "",
+    "text": "Programming Languages: Python, HTML, CSS, SQL, JavaScript, JSON, Erlang, C#, Java, Kotlin\nPlatforms: Mac, Windows, Linux, Android, iOS, GCP, Firebase, NODE.JS\nTools & Libraries: TensorFlow, PyTorch, GitHub, Pandas, YAML, Regex, Pycharm, SSH/DCN, SFTP, VNC, mySQL, MongoDB, Mongoose, Express.js\nCommunication: Strong written and verbal communication skills. Fluent in English, Farsi, Dari, Tajik, Arabic, Azerbaijani, Turkish, Slovak, Czech"
+  },
+  {
+    "objectID": "resume.html#employment",
+    "href": "resume.html#employment",
+    "title": "Reza Moradi CV",
+    "section": "",
+    "text": "2023 – Present\nArabic Language TA, Brigham Young University–Idaho, Idaho\n- Provide academic support for Arabic courses\n- Facilitate language learning and cultural awareness\n- Assist professors with instruction and university events\n2018 – 2021\nTechnical Service Trainee, Appliance Repair, Iran\n- Diagnosed and repaired motors, boards, and appliances\n- Demonstrated precision in disassembly and repairs\n- Strengthened critical thinking and system analysis skills\nJune – Dec 2018\nTechnical Trainee, Signal Center, Qazvin, Iran\n- Specialized in mobile device repairs\n- Performed socket/screen replacements and updates\n- Developed hardware and software troubleshooting expertise"
+  },
+  {
+    "objectID": "resume.html#personal-projects",
+    "href": "resume.html#personal-projects",
+    "title": "Reza Moradi CV",
+    "section": "",
+    "text": "A real-time messaging platform to discuss astronomy and space exploration\n\nStack: Firebase, Firestore, Firebase Auth\n\nFeatures: Secure user accounts, real-time chat, photo sharing\n\nDesign: Clean, user-friendly interface focused on engagement\n\nOutcome: A safe platform for space enthusiasts to interact and learn"
   }
 ]

@@ -1,89 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Reza Moradi CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Mohammad Reza Moradi
+Computer Science Student | Software Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:mohammadrezamoradi382@gmail.com">mohammadrezamoradi382@gmail.com</a> |
+<a href="https://www.linkedin.com/in/mohammad-reza-moradi-669636233">LinkedIn</a> |
+(208) 500-2821 | United States
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Bachelor’s Degree – Computer Science student at Brigham Young University–Idaho
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cross-platform software development, database systems, backend APIs, and real-time web applications
 
 
-### Research interests
+### Research / Development Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Web development, mobile apps, machine learning, backend architecture, educational platforms
 
+## Skills
+
+**Programming Languages:** Python, HTML, CSS, SQL, JavaScript, JSON, Erlang, C#, Java, Kotlin  
+**Platforms:** Mac, Windows, Linux, Android, iOS, GCP, Firebase, NODE.JS  
+**Tools & Libraries:** TensorFlow, PyTorch, GitHub, Pandas, YAML, Regex, Pycharm, SSH/DCN, SFTP, VNC, mySQL, MongoDB, Mongoose, Express.js  
+**Communication:** Strong written and verbal communication skills. Fluent in English, Farsi, Dari, Tajik, Arabic, Azerbaijani, Turkish, Slovak, Czech
+
+## Employment
+
+`2023 – Present`  
+__Arabic Language TA__, Brigham Young University–Idaho, Idaho  
+- Provide academic support for Arabic courses  
+- Facilitate language learning and cultural awareness  
+- Assist professors with instruction and university events
+
+`2018 – 2021`  
+__Technical Service Trainee__, Appliance Repair, Iran  
+- Diagnosed and repaired motors, boards, and appliances  
+- Demonstrated precision in disassembly and repairs  
+- Strengthened critical thinking and system analysis skills
+
+`June – Dec 2018`  
+__Technical Trainee__, Signal Center, Qazvin, Iran  
+- Specialized in mobile device repairs  
+- Performed socket/screen replacements and updates  
+- Developed hardware and software troubleshooting expertise
+
+## Personal Projects
+
+### Astronomy Guestbook  
+A real-time messaging platform to discuss astronomy and space exploration
+
+- **Stack:** Firebase, Firestore, Firebase Auth  
+- **Features:** Secure user accounts, real-time chat, photo sharing  
+- **Design:** Clean, user-friendly interface focused on engagement  
+- **Outcome:** A safe platform for space enthusiasts to interact and learn
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 – 2026 (expected)`  
+__Brigham Young University–Idaho__, Rexburg, Idaho  
+- Bachelor’s Degree in Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Certifications:**  
+- Responsive Web Design  
+- Relational Databases  
+- Backend Development and APIs
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
